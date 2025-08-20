@@ -164,7 +164,7 @@
     height: 300px;
     line-height: 300px;
     font-size: 5em;
-    background: url("../img/elements/border.png") no-repeat center center; /* Keep original image */
+    background: url("border.png") no-repeat center center; /* Keep original image */
     -webkit-text-stroke: 1px #FFFF00; /* Changed to yellow */
     color: #FFFFFF; /* Changed to white */
 }
@@ -516,7 +516,7 @@ ARROW (DISABLE) */
         height: 300px;
         line-height: 300px;
         font-size: 3em;
-        background: url("../img/elements/border.png") no-repeat center center; /* Keep original image */
+        background: url("border.png") no-repeat center center; /* Keep original image */
         -webkit-text-stroke: 1px #FFFF00; /* Changed to yellow */
     }
 }

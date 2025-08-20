@@ -1,5 +1,5 @@
 .layer6 {
-    background: url("../img/pexels-pixabay-262488.jpg"), #000000; /* Changed to black */
+    background: url("pexels-pixabay-262488.jpg"), #000000; /* Changed to black */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
